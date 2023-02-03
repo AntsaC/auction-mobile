@@ -1,0 +1,14 @@
+.box-container {
+    background-color: rgba(170, 212, 232, 0.93);
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.box {
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    font-size: 60px;
+}

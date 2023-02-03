@@ -1,0 +1,8 @@
+{
+  "name": "Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "e0f2c7ea"
+}
